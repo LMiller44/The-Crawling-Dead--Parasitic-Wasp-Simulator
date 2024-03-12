@@ -1,6 +1,7 @@
 # The Crawling Dead: Parasitic Wasp Simulator
 
 This project was developed under the sponsorship of Dr. Barbara Sharanowski as part of the UCF CECS Computer Science Senior Design program.
+A video showcase of the project is available on YouTube: https://youtu.be/i9RVjCBl09Q?si=01PAa36q4cID9tA7
 
 # Authors
 - Lester Miller
